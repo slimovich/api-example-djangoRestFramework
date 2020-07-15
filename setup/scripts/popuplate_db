@@ -1,0 +1,8 @@
+cd ../../
+
+if [ ! -f src/manage.py ]; then
+    echo "File manage.py not found!"
+    exit 0
+fi
+
+python src/manage.py populate_db

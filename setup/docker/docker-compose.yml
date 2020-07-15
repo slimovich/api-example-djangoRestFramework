@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    command: bash -c "./setup/sripts/run"
+    container_name: drf_examples
+    volumes:
+      - .:/src
+    ports:
+      - "8000:8000"

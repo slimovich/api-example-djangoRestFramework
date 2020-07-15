@@ -1,0 +1,17 @@
+# virtual environnement
+venv/
+
+# Desktop Services Store on macOS
+.DS_Store
+
+# Python cache directories
+__pycache__/
+
+# Jetbrains project files
+.idea/
+
+# vscode project files
+.vscode/
+
+# database
+src/db.sqlite3

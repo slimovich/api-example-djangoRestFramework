@@ -1,0 +1,211 @@
+region_code,region_name,dept_code,distr_code,code,name,population,average_age
+84,Auvergne-Rh̫ne-Alpes,1,2,1,L' Abergement-Cl̩menciat,785,40.3
+84,Auvergne-Rh̫ne-Alpes,1,1,2,L' Abergement-de-Varey,241,41.7
+84,Auvergne-Rh̫ne-Alpes,1,1,6,Ambl̩on,115,40.4
+84,Auvergne-Rh̫ne-Alpes,1,1,8,Ambutrix,764,41.8
+84,Auvergne-Rh̫ne-Alpes,1,1,9,Andert-et-Condon,347,40.8
+84,Auvergne-Rh̫ne-Alpes,1,4,11,Apremont,405,41.7
+84,Auvergne-Rh̫ne-Alpes,1,1,12,Aranc,332,40.4
+84,Auvergne-Rh̫ne-Alpes,1,1,13,Arandas,162,40.7
+84,Auvergne-Rh̫ne-Alpes,1,2,16,Arbigny,446,40.1
+84,Auvergne-Rh̫ne-Alpes,1,1,15,Arboys en Bugey,650,41.6
+84,Auvergne-Rh̫ne-Alpes,1,1,17,Argis,439,40.4
+84,Auvergne-Rh̫ne-Alpes,1,1,19,Armix,23,40.5
+32,Hauts-de-France,2,2,56,Beaumont-en-Beine,170,40.9
+32,Hauts-de-France,2,2,58,Beaurieux,816,41.4
+32,Hauts-de-France,2,3,60,Beauvois-en-Vermandois,287,41.9
+32,Hauts-de-France,2,3,61,Becquigny,287,40.5
+32,Hauts-de-France,2,1,62,Belleau,142,40.2
+32,Hauts-de-France,2,3,63,Bellenglise,393,41.4
+32,Hauts-de-France,2,3,65,Bellicourt,637,41.4
+32,Hauts-de-France,2,3,66,Benay,213,40.8
+32,Hauts-de-France,2,5,67,Bergues-sur-Sambre,220,40.5
+32,Hauts-de-France,2,5,68,Berlancourt,111,41
+32,Hauts-de-France,2,2,69,Berlise,120,41.6
+32,Hauts-de-France,2,5,70,Bernot,456,40.1
+32,Hauts-de-France,2,4,71,Berny-Rivi̬re,658,41.7
+32,Hauts-de-France,2,2,72,Berrieux,190,40.1
+32,Hauts-de-France,2,2,73,Berry-au-Bac,618,41.1
+32,Hauts-de-France,2,2,74,Bertaucourt-Epourdon,635,40.9
+32,Hauts-de-France,2,3,75,Berthenicourt,209,42
+32,Hauts-de-France,2,2,76,Bertricourt,175,41.1
+32,Hauts-de-France,2,4,77,Berzy-le-Sec,407,41.3
+32,Hauts-de-France,2,2,78,Besm̩,156,41.5
+32,Hauts-de-France,2,5,79,Besmont,166,41.1
+32,Hauts-de-France,2,2,80,Besny-et-Loizy,371,41.1
+32,Hauts-de-France,2,2,81,B̩thancourt-en-Vaux,512,41.8
+32,Hauts-de-France,2,4,82,Beugneux,110,40.7
+32,Hauts-de-France,2,1,83,Beuvardes,737,40.7
+32,Hauts-de-France,2,1,84,B̩zu-le-Gu̩ry,270,40.3
+93,Provence-Alpes-C̫te d'Azur,4,4,66,Curbans,527,41
+93,Provence-Alpes-C̫te d'Azur,4,4,67,Curel,60,41.7
+93,Provence-Alpes-C̫te d'Azur,4,4,68,Dauphin,830,42
+93,Provence-Alpes-C̫te d'Azur,4,2,69,Demandolx,126,40.6
+93,Provence-Alpes-C̫te d'Azur,4,3,72,Draix,112,40.3
+93,Provence-Alpes-C̫te d'Azur,4,1,73,Enchastrayes,405,42
+93,Provence-Alpes-C̫te d'Azur,4,3,74,Entrages,113,40.2
+93,Provence-Alpes-C̫te d'Azur,4,4,75,Entrepierres,405,41.9
+93,Provence-Alpes-C̫te d'Azur,4,2,76,Entrevaux,892,40.7
+93,Provence-Alpes-C̫te d'Azur,4,3,77,Entrevennes,165,41.8
+93,Provence-Alpes-C̫te d'Azur,4,3,81,Esparron-de-Verdon,430,40.7
+93,Provence-Alpes-C̫te d'Azur,4,3,84,Estoublon,488,40.9
+93,Provence-Alpes-C̫te d'Azur,4,1,86,Faucon-de-Barcelonnette,319,40.9
+93,Provence-Alpes-C̫te d'Azur,4,4,85,Faucon-du-Caire,55,40.5
+93,Provence-Alpes-C̫te d'Azur,4,4,87,Fontienne,132,40
+93,Provence-Alpes-C̫te d'Azur,4,2,90,Le Fugeret,187,40.5
+93,Provence-Alpes-C̫te d'Azur,4,4,91,Ganagobie,80,41.9
+93,Provence-Alpes-C̫te d'Azur,4,2,92,La Garde,79,40.9
+93,Provence-Alpes-C̫te d'Azur,4,4,93,Gigors,59,41.1
+93,Provence-Alpes-C̫te d'Azur,4,3,177,Hautes-Duyes,42,41.8
+93,Provence-Alpes-C̫te d'Azur,4,4,95,L' Hospitalet,93,40.2
+93,Provence-Alpes-C̫te d'Azur,4,3,97,La Javie,398,41.6
+93,Provence-Alpes-C̫te d'Azur,4,2,99,Lambruisse,103,40
+93,Provence-Alpes-C̫te d'Azur,4,4,101,Lardiers,113,40.8
+93,Provence-Alpes-C̫te d'Azur,4,1,102,Le Lauzet-Ubaye,233,40
+93,Provence-Alpes-C̫te d'Azur,4,4,104,Limans,363,41.7
+93,Provence-Alpes-C̫te d'Azur,4,4,106,Lurs,378,40.8
+93,Provence-Alpes-C̫te d'Azur,4,3,107,Majastres,3,40
+93,Provence-Alpes-C̫te d'Azur,4,4,109,Mallefougasse-Aug̬s,321,40.7
+93,Provence-Alpes-C̫te d'Azur,4,3,113,Marcoux,527,40.4
+93,Provence-Alpes-C̫te d'Azur,4,2,115,M̩ailles,112,41
+93,Provence-Alpes-C̫te d'Azur,4,4,118,Melve,118,40.1
+93,Provence-Alpes-C̫te d'Azur,4,1,161,M̩olans-Revel,344,40.2
+93,Provence-Alpes-C̫te d'Azur,4,3,121,M̩zel,698,40.4
+93,Provence-Alpes-C̫te d'Azur,4,3,122,Mirabeau,504,40.7
+44,Grand-Est,8,4,61,La Berli̬re,46,40.4
+44,Grand-Est,8,2,62,Bertoncourt,140,41.8
+44,Grand-Est,8,3,63,La Besace,124,40.3
+44,Grand-Est,8,2,64,Biermes,295,40.5
+44,Grand-Est,8,3,65,Bi̬vres,52,41
+44,Grand-Est,8,2,66,Bignicourt,72,40.2
+44,Grand-Est,8,1,69,Blanchefosse-et-Bay,163,40.6
+44,Grand-Est,8,2,70,Blanzy-la-Salonnaise,343,41.9
+44,Grand-Est,8,1,71,Blombay,134,41.9
+44,Grand-Est,8,3,72,Bosseval-et-Briancourt,422,42
+44,Grand-Est,8,1,73,Bossus-l̬s-Rumigny,103,41.5
+44,Grand-Est,8,4,74,Bouconville,54,40.6
+44,Grand-Est,8,4,75,Boult-aux-Bois,152,40.4
+44,Grand-Est,8,1,76,Boulzicourt,986,42
+44,Grand-Est,8,4,77,Bourcq,57,41.8
+44,Grand-Est,8,1,78,Bourg-Fid̬le,893,40.7
+44,Grand-Est,8,1,79,Boutancourt,300,41.8
+44,Grand-Est,8,1,80,Bouvellemont,103,40.9
+44,Grand-Est,8,4,82,Br̩cy-Bri̬res,72,41.4
+44,Grand-Est,8,3,83,Br̩villy,405,40.7
+44,Grand-Est,8,2,84,Brienne-sur-Aisne,207,40.9
+44,Grand-Est,8,4,85,Brieulles-sur-Bar,195,40.2
+44,Grand-Est,8,4,86,Briquenay,113,40
+44,Grand-Est,8,1,87,Brognon,155,41
+44,Grand-Est,8,3,88,Bulson,137,41.7
+44,Grand-Est,8,4,89,Buzancy,348,41.9
+44,Grand-Est,8,4,92,Cauroy,193,41.5
+44,Grand-Est,8,1,94,Cernion,65,41.6
+44,Grand-Est,8,1,95,Chagny,188,40.2
+44,Grand-Est,8,1,96,Chalandry-Elaire,660,40.8
+44,Grand-Est,8,4,97,Challerange,481,41.9
+44,Grand-Est,8,1,99,Champigneul-sur-Vence,127,40.8
+44,Grand-Est,8,4,98,Champigneulle,66,41.5
+44,Grand-Est,8,1,100,Champlin,78,41.6
+44,Grand-Est,8,3,101,La Chapelle,179,41
+44,Grand-Est,8,2,102,Chappes,97,41.5
+44,Grand-Est,8,4,103,Charbogne,226,40.8
+44,Grand-Est,8,4,104,Chardeny,41,40.2
+44,Grand-Est,8,1,106,Charnois,79,41.3
+44,Grand-Est,8,4,109,Chatel-Ch̩h̩ry,153,41.2
+44,Grand-Est,8,2,111,Le Ch̢telet-sur-Retourne,777,41.5
+44,Grand-Est,8,1,110,Le Ch̢telet-sur-Sormonne,164,40.3
+44,Grand-Est,8,2,113,Chaumont-Porcien,483,40.1
+44,Grand-Est,8,3,115,Ch̩mery-Ch̩h̩ry,584,41.4
+44,Grand-Est,8,2,117,Chesnois-Auboncourt,185,40.6
+44,Grand-Est,8,3,119,Cheveuges,445,41.2
+44,Grand-Est,8,4,120,Chevi̬res,50,41.1
+44,Grand-Est,8,1,121,Chilly,154,41.8
+44,Grand-Est,8,1,122,Chooz,771,40.7
+44,Grand-Est,8,4,123,Chuffilly-Roche,83,40.6
+44,Grand-Est,8,1,124,Clavy-Warby,368,40.2
+44,Grand-Est,8,1,125,Cliron,344,40.7
+44,Grand-Est,8,4,128,Cond̩-l̬s-Autry,79,42
+44,Grand-Est,8,2,126,Cond̩-l̬s-Herpy,224,41.2
+44,Grand-Est,8,4,130,Contreuve,66,41.8
+44,Grand-Est,8,4,131,Cornay,69,41.4
+44,Grand-Est,8,2,132,Corny-Mach̩rom̩nil,185,41
+44,Grand-Est,8,2,133,Coucy,518,41
+44,Grand-Est,8,4,134,Coulommes-et-Marqueny,96,41.3
+44,Grand-Est,8,4,135,La Croix-aux-Bois,150,41.4
+44,Grand-Est,8,3,136,Daigny,365,40.2
+44,Grand-Est,8,1,137,Damouzy,451,41.2
+44,Grand-Est,8,3,138,Les Deux-Villes,271,41.1
+76,Occitanie,9,2,238,Les Pujols,776,41.2
+76,Occitanie,9,1,239,Qu̩rigut,143,41.9
+76,Occitanie,9,1,240,Qui̩,300,41.6
+76,Occitanie,9,1,241,Rabat-les-Trois-Seigneurs,357,40.3
+76,Occitanie,9,1,242,Raissac,44,40.6
+76,Occitanie,9,2,243,R̩gat,90,40.4
+76,Occitanie,9,2,244,Rieucros,683,41.9
+76,Occitanie,9,3,246,Rimont,547,40.9
+76,Occitanie,9,3,247,Riv̬renert,194,41.2
+76,Occitanie,9,1,249,Roquefixade,154,41
+76,Occitanie,9,1,250,Roquefort-les-Cascades,94,40
+76,Occitanie,9,2,251,Roumengoux,180,40.3
+76,Occitanie,9,1,252,Rouze,86,41.3
+76,Occitanie,9,2,253,Sabarat,336,40.3
+76,Occitanie,9,2,254,Saint-Amadou,264,40.9
+76,Occitanie,9,2,255,Saint-Amans,45,41
+76,Occitanie,9,2,256,Saint-Bauzeil,64,42
+76,Occitanie,9,2,258,Saint-F̩lix-de-Rieutord,467,40.8
+76,Occitanie,9,2,259,Saint-F̩lix-de-Tournegat,144,41.6
+76,Occitanie,9,1,262,Saint-Jean-d'Aigues-Vives,405,41.6
+76,Occitanie,9,3,263,Saint-Jean-du-Castillonnais,25,41.9
+76,Occitanie,9,2,266,Saint-Julien-de-Gras-Capou,60,40.4
+76,Occitanie,9,3,267,Saint-Lary,134,40.1
+76,Occitanie,9,2,270,Saint-Martin-d'Oydes,258,40.1
+76,Occitanie,9,1,269,Saint-Martin-de-Caralp,359,40.9
+76,Occitanie,9,2,271,Saint-Michel,78,40
+76,Occitanie,9,1,273,Saint-Pierre-de-Rivi̬re,651,40.7
+76,Occitanie,9,2,274,Saint-Quentin-la-Tour,342,41.3
+76,Occitanie,9,2,275,Saint-Quirc,396,40.6
+76,Occitanie,9,2,276,Saint-Victor-Rouzaud,239,41.8
+76,Occitanie,9,2,277,Saint-Ybars,646,41.1
+76,Occitanie,9,3,257,Sainte-Croix-Volvestre,652,41.9
+76,Occitanie,9,2,260,Sainte-Foi,23,40.7
+76,Occitanie,9,2,342,Sainte-Suzanne,238,41
+76,Occitanie,9,3,279,Salsein,45,41
+76,Occitanie,9,1,280,Saurat,666,41.1
+76,Occitanie,9,1,281,Sautel,110,41.1
+76,Occitanie,9,1,283,Savignac-les-Ormeaux,413,41.4
+76,Occitanie,9,2,284,S̩gura,182,42
+76,Occitanie,9,3,285,Seix,726,41
+76,Occitanie,9,1,286,Sem,24,41.2
+76,Occitanie,9,1,287,Senconac,10,40.8
+76,Occitanie,9,3,290,Sentein,158,40.7
+76,Occitanie,9,3,291,Sentenac-d'Oust,111,40.3
+76,Occitanie,9,1,292,Sentenac-de-S̩rou,39,42
+76,Occitanie,9,1,293,Serres-sur-Arget,804,40.2
+76,Occitanie,9,2,294,Sieuras,78,40.8
+76,Occitanie,9,1,295,Siguer,102,41.8
+76,Occitanie,9,1,296,Sinsat,117,40.2
+76,Occitanie,9,3,297,Sor,31,40.2
+76,Occitanie,9,1,298,Sorgeat,91,42
+76,Occitanie,9,3,299,Soueix-Rogalle,424,41.3
+76,Occitanie,9,1,300,Soula,196,40.6
+76,Occitanie,9,3,301,Soulan,361,40.6
+76,Occitanie,9,1,302,Suc-et-Sentenac,48,40.5
+76,Occitanie,9,1,303,Surba,357,41.6
+76,Occitanie,9,1,304,Suzan,23,40.9
+76,Occitanie,9,2,305,Tabre,381,40.7
+76,Occitanie,9,3,307,Taurignan-Castet,182,40.9
+76,Occitanie,9,3,308,Taurignan-Vieux,211,40.4
+76,Occitanie,9,2,309,Teilhet,153,40.8
+76,Occitanie,9,2,310,Thouars-sur-Arize,54,41.6
+76,Occitanie,9,1,311,Tignac,24,42
+76,Occitanie,9,3,313,Tourtouse,186,40
+76,Occitanie,9,2,314,Tourtrol,271,40.7
+76,Occitanie,9,2,315,Tr̩moulet,121,40.5
+76,Occitanie,9,2,316,Troye-d'Ari̬ge,95,40.2
+76,Occitanie,9,3,317,Uchentein,20,40.9
+76,Occitanie,9,1,318,Unac,119,41
+76,Occitanie,9,2,319,Unzent,127,41.2
+76,Occitanie,9,1,320,Urs,35,40
+76,Occitanie,9,1,321,Ussat,351,42
+76,Occitanie,9,3,322,Ustou,322,40.6
+76,Occitanie,9,2,323,Vals,94,41.2
